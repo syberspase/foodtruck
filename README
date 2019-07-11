@@ -1,0 +1,5 @@
+Steps:
+Load it into any IDE as Maven project to browse the code.
+Run javac FoodTruckFinder.java && java FoodTruckFinder to see the result.
+TestFinder is jUnit test.
+Change settings in config.properties to see more results, but select fields and order should be kept unchanged
